@@ -40,7 +40,7 @@ a {
     left: 0;
     top: 100px;
     /* color: #3e52a4; */
-    text-decoration: none;
+    /* text-decoration: none; */
     cursor: pointer;
     /* font-family: Arial; */
     /* font-weight: bold; */
@@ -70,7 +70,7 @@ a {
     float: top;
     right: 0;
     top: 100px;
-    text-decoration: none;
+    /* text-decoration: none; */
     /* color: #3e52a4; */
     /* font-family: 'Times New Roman', Times, serif; */
 }
