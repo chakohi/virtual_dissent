@@ -16,7 +16,7 @@ a {
     position: fixed;
     float: left;
     margin-top: 49vh;
-    left: 0;
+    left: 1%;
     /* font-family: Verdana; */
     /* font-weight: bold; */
     /* font-size: 13px; */
@@ -28,7 +28,7 @@ a {
     position: fixed;
     float: right;
     margin-top: 49vh;
-    right: 0;
+    right: 1%;
     /* color: #3e52a4; */
     /* font-family: verdana; */
     /* font-weight: bold; */
@@ -37,7 +37,7 @@ a {
 .leftTop {
     position: fixed;
     float: top;
-    left: 0;
+    left: 1%;
     top: 100px;
     /* color: #3e52a4; */
     /* text-decoration: none; */
@@ -49,7 +49,7 @@ a {
 .leftBottom {
     position: fixed;
     float: bottom;
-    left: 0;
+    left: 1%;
     bottom: 100px;
     font-family: Times;
     /* text-decoration: underline; */
@@ -59,7 +59,7 @@ a {
 .rightBottom {
     position: fixed;
     float: bottom;
-    right: 0;
+    right: 1%;
     bottom: 100px;
     /* color: #3e52a4; */
     /* font-family: 'Times New Roman', Times, serif; */
@@ -68,7 +68,7 @@ a {
 .rightTop {
     position: fixed;
     float: top;
-    right: 0;
+    right: 1%;
     top: 100px;
     /* text-decoration: none; */
     /* color: #3e52a4; */
