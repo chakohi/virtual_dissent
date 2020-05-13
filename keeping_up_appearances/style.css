@@ -1,5 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+    /* background-color: green; */
 }
 
 A:link {
@@ -20,4 +22,34 @@ A:active {
 A:hover {
     text-decoration: none;
     color: #FF66FF
+}
+
+
+/* .container {
+    display: flex;
+    flex-grow: 1;
+} */
+
+#footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.project-link {
+    color: #FF66FF !important;
+    margin-left: 1%;
+    margin-right: 1%;
+    font-size: 1.2em;
 }
