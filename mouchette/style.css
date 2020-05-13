@@ -32,3 +32,10 @@ a {
     line-height: 32px;
     font-size: 1.5em;
 }
+
+.ant {
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 10%;
+    width: 200px;
+}
