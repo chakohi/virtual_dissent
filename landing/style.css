@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana;
+    font-family: 'Ubuntu Mono', monospace;
     font-size: 1.2em;
     background-color: black;
 }
@@ -8,6 +8,7 @@ a {
     text-decoration: none;
     cursor: pointer;
     font-size: 1.3em;
+    font-weight: bold;
 }
 
 .leftCenter {
@@ -15,11 +16,11 @@ a {
     float: left;
     margin-top: 49vh;
     left: 0;
-    font-family: Verdana;
-    font-weight: bold;
+    /* font-family: Verdana; */
+    /* font-weight: bold; */
     /* font-size: 13px; */
     /* letter-spacing: 0.1em; */
-    color: rgb(255, 0, 0)
+    color: #3e52a4;
 }
 
 .rightCenter {
@@ -27,9 +28,9 @@ a {
     float: right;
     margin-top: 49vh;
     right: 0;
-    color: #4d6ad8;
-    font-family: verdana;
-    font-weight: bold;
+    color: #3e52a4;
+    /* font-family: verdana; */
+    /* font-weight: bold; */
 }
 
 .leftTop {
@@ -37,11 +38,11 @@ a {
     float: top;
     left: 0;
     top: 100px;
-    color: #4d6ad8;
+    color: #3e52a4;
     text-decoration: none;
     cursor: pointer;
-    font-family: Arial;
-    font-weight: bold;
+    /* font-family: Arial; */
+    /* font-weight: bold; */
 }
 
 .leftBottom {
@@ -51,6 +52,7 @@ a {
     bottom: 100px;
     font-family: Times;
     text-decoration: underline;
+    color: #3e52a4;
 }
 
 .rightBottom {
@@ -58,8 +60,8 @@ a {
     float: bottom;
     right: 0;
     bottom: 100px;
-    color: #0033FF;
-    font-family: 'Times New Roman', Times, serif;
+    color: #3e52a4;
+    /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .rightTop {
@@ -68,8 +70,8 @@ a {
     right: 0;
     top: 100px;
     text-decoration: none;
-    color: #FF66FF;
-    font-family: 'Times New Roman', Times, serif;
+    color: #3e52a4;
+    /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .outer {
@@ -90,5 +92,5 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
-    color: rgb(201, 14, 92);
+    color: white;
 }
