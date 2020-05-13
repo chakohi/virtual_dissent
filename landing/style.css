@@ -5,11 +5,11 @@ body {
 }
 
 a {
-    text-decoration: none;
+    /* text-decoration: none; */
     cursor: pointer;
     font-size: 1.3em;
     font-weight: bold;
-    color: #3e52a4;
+    color: #6e92c9;
 }
 
 .leftCenter {
