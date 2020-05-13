@@ -5,7 +5,10 @@ body {
     text-decoration: none;
     color: grey;
     font-size: 200%;
-    margin: 3em 10% 5% 9em;
+}
+
+.container {
+    margin: 3em 10% 5% 5em;
 }
 
 .second {
