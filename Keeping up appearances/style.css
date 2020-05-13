@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+A:link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+A:visited {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+A:active {
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+A:hover {
+    text-decoration: none;
+    color: #FF66FF
+}
