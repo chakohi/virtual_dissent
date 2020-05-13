@@ -29,6 +29,5 @@ a:hover {
 .inner {
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
-    /*whatever width you want*/
+    width: 800px;
 }
