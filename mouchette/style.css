@@ -1,0 +1,34 @@
+body {
+    background-image: url("rose.jpg");
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 13px;
+    /* letter-spacing: 0.1em; */
+    color: rgb(51, 0, 102)
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+.childphoto {
+    width: 4%;
+    margin-left: 3%;
+    float: left;
+}
+
+.checkbox {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 0;
+}
+
+.text {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 500px;
+    line-height: 32px;
+    font-size: 1.5em;
+}
